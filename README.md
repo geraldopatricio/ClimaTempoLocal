@@ -46,6 +46,9 @@ npm run build
 ## Postman
 <img src="./src/assets/postman.png" alt="Postman" /> 
 
+## API KEY
+<img src="./src/assets/openweathermap-key.png" alt="Chave" /> 
+
 ## Suporte:
 ``` 
 E-Mail:   gpatricio.melo@gmail.com 
