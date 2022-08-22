@@ -4,14 +4,18 @@
 
 
 # Descrição do Projeto
-` App para mostrar a Posição atual e dados climáticos de sua posição atual `
+```
+App para mostrar a Posição atual e dados climáticos de sua posição atual 
+```
 
 ## Procedimento de instalação e usabilidade do app
+```
 Registre-se no site da API:
 https://openweathermap.org/
 
 Inclua sua chave no src/App.js
 linha 28 em appid=XXXXXXXXXXXXXXXXXXX
+```
 
 ## Instale o Pacote 
 ```
@@ -27,13 +31,16 @@ Acesse via.\
 Endereço [http://localhost:3000](http://localhost:3000) no browser.
 
 ## Para executar testes
-### `npm test`
+```
+npm test
+```
 
 ## gerar build
-### `npm run build`
+```
+npm run build
+```
 
 ## Tela após rodar o projeto
-http://localhost:3000
 <img src="./src/assets/tela.png" alt="Tela do Projeto" /> 
 
 ## Postman
