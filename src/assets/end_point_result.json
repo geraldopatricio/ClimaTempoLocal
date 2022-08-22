@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -38.5247,
+        "lat": -3.7227
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "algumas nuvens",
+            "icon": "02n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 26.07,
+        "feels_like": 26.07,
+        "temp_min": 26.07,
+        "temp_max": 26.23,
+        "pressure": 1014,
+        "humidity": 78
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.12,
+        "deg": 100
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1661124406,
+    "sys": {
+        "type": 1,
+        "id": 8363,
+        "country": "BR",
+        "sunrise": 1661071034,
+        "sunset": 1661114259
+    },
+    "timezone": -10800,
+    "id": 6320062,
+    "name": "Fortaleza",
+    "cod": 200
+}
