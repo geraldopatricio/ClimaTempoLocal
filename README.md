@@ -14,11 +14,14 @@ Inclua sua chave no src/App.js
 linha 28 em appid=XXXXXXXXXXXXXXXXXXX
 
 ## Instale o Pacote 
-### `npm install`
+```
+npm install
+```
 
 ## após isto rode o projeto
-
-### `npm start`
+```
+npm start
+```
 
 Acesse via.\
 Endereço [http://localhost:3000](http://localhost:3000) no browser.
