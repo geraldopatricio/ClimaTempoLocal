@@ -45,6 +45,10 @@ npm run build
 
 ## Postman
 <img src="./src/assets/postman.png" alt="Postman" /> 
+```
+Para testar no Postman ou Insomnia utilize a URL:
+https://api.openweathermap.org/data/2.5/weather?q=Fortaleza&units=metric&lang=pt_br&appid=0720188f76903c6fe50931b602a81073
+```
 
 ## Suporte:
 ``` 
