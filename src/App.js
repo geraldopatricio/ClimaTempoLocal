@@ -25,7 +25,7 @@ function App() {
         savePositionToState
       );
       const res = await axios.get(
-        `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=0720188f76903c6fe50931b602a81073&units=metric&lang=pt_br`
+        `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=SUA_CHAVE_AQUI&units=metric&lang=pt_br`
       );
       setTemperature(res.data.main.temp);
       setCityName(res.data.name);
