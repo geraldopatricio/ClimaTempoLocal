@@ -50,6 +50,9 @@ Para testar no Postman ou Insomnia utilize a URL:
 https://api.openweathermap.org/data/2.5/weather?q=Fortaleza&units=metric&lang=pt_br&appid=0720188f76903c6fe50931b602a81073
 ```
 
+## Video
+<a href="https://youtu.be/bwoMW1he3Vk" target="_blank">Clique Aqui</a>
+
 ## Suporte:
 ``` 
 E-Mail:   gpatricio.melo@gmail.com 
